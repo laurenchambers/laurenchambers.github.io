@@ -231,6 +231,15 @@ p {
   margin: 0 0 2em 0;
 }
 
+.project-title {
+  color: #787878;
+  font-weight: 400;
+  line-height: 1em;
+  margin: 0 0 1em 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+
 h1,
 h2,
 h3,
